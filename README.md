@@ -11,10 +11,10 @@ ___
 
 Redirects to https://github.com/Murray-Bridge-Bunyips/BunyipsLib/wiki/IO
 ___
-`https://bunyipslib.wiki.bubner.me/manualfeedbacktuner`
+`bunyipslib.wiki.bubner.me/manfeedbacktuner`
 
 Redirects to https://github.com/Murray-Bridge-Bunyips/BunyipsLib/wiki/RoadRunner#:~:text=ManualFeedbackTuner%20%28all%29
 ___
-`https://bunyipslib.wiki.bubner.me/the system controller`
+`https://bunyipslib.wiki.bubner.me/syscontroller`
 
 Redirects to https://github.com/Murray-Bridge-Bunyips/BunyipsLib/wiki/IO#:~:text=The%20System%20Controller
