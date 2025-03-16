@@ -7,7 +7,7 @@ This is a keyword search API for the [BunyipsLib wiki](https://github.com/Murray
 
 Redirects to https://github.com/Murray-Bridge-Bunyips/BunyipsLib/wiki
 ___
-`https://bunyipslib.wiki.bubner.me/IO`
+`https://bunyipslib.wiki.bubner.me/io`
 
 Redirects to https://github.com/Murray-Bridge-Bunyips/BunyipsLib/wiki/IO
 ___
