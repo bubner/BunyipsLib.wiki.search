@@ -51,6 +51,6 @@ def search(search: str):
     # We now need to strip down the string match so we can put it into a link fragment
     # then we can construct a new URL to send the user to with the match. We use the URI text fragment API.
     # We also use quote from urllib to make sure input is valid for the browser and remove some pieces
-    fragment = quote(strongest_match[0].replace("#", "").strip())
+    fragment = quote(strongest_match[0].replace("#", "").replace("`", "").strip())
     return redirect(get_wiki_page_link(f"{strongest_match[2]}#:~:text={fragment}"))
     
