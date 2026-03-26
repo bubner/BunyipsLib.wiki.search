@@ -8,7 +8,7 @@ itsdangerous==2.2.0
 Jinja2==3.1.6
 MarkupSafe==3.0.2
 RapidFuzz==3.12.2
-requests==2.32.3
+requests==2.33.0
 thefuzz==0.22.1
 urllib3==2.3.0
 Werkzeug==3.1.3
